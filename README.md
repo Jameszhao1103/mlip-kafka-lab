@@ -5,9 +5,9 @@ In this lab, you will gain hands-on experience with Apache Kafka, a distributed 
 To receive credit for this lab, show your work to the TA during recitation.
 
 ## Deliverables
-- [ ] Establish a secure SSH tunnel to the Kafka server. Explain to the TA about Kafka Topic and Offsets. How do they ensure message continuity if a consumer is disconnected?
-- [ ] Modify starter code to implement producer and consumer modes for a Kafka topic.
-- [ ] Use Kafka's CLI tools to manage and monitor Kafka topics and messages.
+- [x] Establish a secure SSH tunnel to the Kafka server. Explain to the TA about Kafka Topic and Offsets. How do they ensure message continuity if a consumer is disconnected?
+- [x] Modify starter code to implement producer and consumer modes for a Kafka topic.
+- [x] Use Kafka's CLI tools to manage and monitor Kafka topics and messages.
 
 
 ## Getting started
